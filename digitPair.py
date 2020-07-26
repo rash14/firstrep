@@ -9,7 +9,7 @@ for i in range(0, N):
 
 def count(num):
     b = d = num
-    count = 0
+    count = 1
 
     while num != 0:
         num //= 10
